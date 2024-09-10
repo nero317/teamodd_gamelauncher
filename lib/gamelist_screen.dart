@@ -22,8 +22,7 @@ class _GameListScreenState extends State<GameListScreen> {
   List<bool> hoveredStates = [];
   String subtitle = "GAME LAUNCHER";
 
-  final String _settingsPassword =
-      'xladhem1234'; // 실제 사용 시 더 안전한 방법으로 관리해야 합니다.
+  final String _settingsPassword = 'xladhem1234';
 
   @override
   void initState() {
