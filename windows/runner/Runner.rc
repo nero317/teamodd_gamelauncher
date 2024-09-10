@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "teamodd_gameauncher" "\0"
+            VALUE "FileDescription", "teamodd_gamelauncher" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "teamodd_gameauncher" "\0"
+            VALUE "InternalName", "teamodd_gamelauncher" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "teamodd_gameauncher.exe" "\0"
-            VALUE "ProductName", "teamodd_gameauncher" "\0"
+            VALUE "OriginalFilename", "teamodd_gamelauncher.exe" "\0"
+            VALUE "ProductName", "teamodd_gamelauncher" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -1,16 +1,15 @@
-# teamodd_gameauncher
+# 팀오드 게임 런처
 
-madebyherenero
+made by @herenxro
 
-## Getting Started
+프로토타입 버전이므로 여러 이슈가 있을 수 있습니다.
 
-This project is a starting point for a Flutter application.
+##사용방법
 
-A few resources to get you started if this is your first Flutter project:
+1. 실행후 우측 아래 "+" 버튼 클릭
+2. 게임 이름, 게임 썸네일, 게임 실행 파일 경로 입력 후 추가 버튼 클릭
+3. 게임 추가 완료
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 좌측 상단 메뉴 버튼을 눌러 부제목 설정 및 추가된 게임 삭제 가능
+- 부제목과 추가된 게임 목록은 games.json 파일에 저장됩니다.
+- 설정 버튼 비밀번호는 운영진에게만 공개됩니다.
